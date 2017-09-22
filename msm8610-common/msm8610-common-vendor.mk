@@ -28,7 +28,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8610-common/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/motorola/msm8610-common/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/motorola/msm8610-common/proprietary/bin/rfs_access:system/bin/rfs_access \
-    vendor/motorola/msm8610-common/proprietary/bin/rild:system/bin/rild \
     vendor/motorola/msm8610-common/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/motorola/msm8610-common/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/motorola/msm8610-common/proprietary/bin/time_daemon:system/bin/time_daemon \
@@ -60,7 +59,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8610-common/proprietary/lib/libpkip.so:system/lib/libpkip.so \
     vendor/motorola/msm8610-common/proprietary/lib/libqmimotext.so:system/lib/libqmimotext.so \
     vendor/motorola/msm8610-common/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
-    vendor/motorola/msm8610-common/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/motorola/msm8610-common/proprietary/lib/libspeakerbundle.so:system/lib/libspeakerbundle.so \
     vendor/motorola/msm8610-common/proprietary/lib/libtpa.so:system/lib/libtpa.so \
     vendor/motorola/msm8610-common/proprietary/lib/libtpa_core.so:system/lib/libtpa_core.so \
