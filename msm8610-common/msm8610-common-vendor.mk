@@ -41,6 +41,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8610-common/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin:system/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin \
     vendor/motorola/msm8610-common/proprietary/etc/gps.conf:system/etc/gps.conf \
     vendor/motorola/msm8610-common/proprietary/etc/sap.conf:system/etc/sap.conf \
+    vendor/motorola/msm8610-common/proprietary/lib/libqsap_sdk.so:system/lib/libqsap_sdk.so \
     vendor/motorola/msm8610-common/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
     vendor/motorola/msm8610-common/proprietary/lib/libactions_irservice_stm.so:system/lib/libactions_irservice_stm.so \
     vendor/motorola/msm8610-common/proprietary/lib/libadropbox.so:system/lib/libadropbox.so \
