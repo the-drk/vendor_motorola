@@ -103,6 +103,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/victara/proprietary/lib/libadropbox.so:system/lib/libadropbox.so \
     vendor/motorola/victara/proprietary/lib/libadvalgcore.so:system/lib/libadvalgcore.so \
     vendor/motorola/victara/proprietary/lib/libbson.so:system/lib/libbson.so \
+    vendor/motorola/victara/proprietary/lib/libqsap_sdk.so:system/lib/libqsap_sdk.so \
     vendor/motorola/victara/proprietary/lib/libcamerabgproc-jni.so:system/lib/libcamerabgproc-jni.so \
     vendor/motorola/victara/proprietary/lib/libcamerabgprocservice.so:system/lib/libcamerabgprocservice.so \
     vendor/motorola/victara/proprietary/lib/libchromatix_ar0543_common.so:system/lib/libchromatix_ar0543_common.so \
