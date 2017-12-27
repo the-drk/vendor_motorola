@@ -157,4 +157,9 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8610-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/motorola/msm8610-common/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/motorola/msm8610-common/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
-    vendor/motorola/msm8610-common/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so
+    vendor/motorola/msm8610-common/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
+	vendor/motorola/msm8610-common/proprietary/vendor/lib/hw/vendor.qti.hardware.fm@1.0-impl.so:system/vendor/lib/hw/vendor.qti.hardware.fm@1.0-impl.so \
+	vendor/motorola/msm8610-common/proprietary/vendor/lib/vendor.qti.hardware.fm@1.0_vendor:system/vendor/lib/vendor.qti.hardware.fm@1.0_vendor.so
+
+PRODUCT_PACKAGES += \
+	vendor.qti.hardware.fm@1.0
